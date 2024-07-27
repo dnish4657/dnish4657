@@ -3,8 +3,11 @@ Welcome to my GitHub profile! I'm a passionate computer engineer with a diverse 
 
 🔧 Skills
 Languages: Python, Java, SQL, C++, HTML, CSS
+
 Frameworks & Libraries: Pandas, Numpy, Scikit-Learn, Matplotlib, OpenCV, Pygame
+
 Technologies: PyTorch, TensorFlow, LIME, CAPTUM
+
 Tools: Git, Docker, VS Code, Jupyter Notebook
 
 🌟 Projects
